@@ -1,0 +1,6 @@
+@Hrx_Sync.Api_HostAddress = http://localhost:5022
+
+GET {{Hrx_Sync.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

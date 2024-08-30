@@ -1,3 +1,108 @@
-venv/
-__pycache__/
-.env
+# Build Folders
+Hrx-Sync.Api/bin/
+Hrx-Sync.Api/obj/
+Hrx-Sync.Api/out/
+
+# User-specific Files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+*.pidb
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code - Session Snapshot
+.vscode/sessions
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# User-specific directories
+AppData/
+LocalSettings.xml
+PublishProfiles/
+
+# Logs
+*.log
+*.tlog
+
+# NuGet Packages
+*.nupkg
+**/packages/*
+# Uncomment if necessary (e.g. NuGet.config in your solution)
+# NuGet.Config
+# NuGet.exe
+# NuGet.targets
+
+# DotNet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Docker
+**/Dockerfile
+**/docker-compose*
+
+# Resharper
+_ReSharper.Caches/
+*.DotSettings.user
+
+# Azure Pipelines
+.azdo/
+
+# StyleCop
+*.stylecop
+
+# SonarQube
+.sonar/
+
+# Coverlet
+coverage.*
+
+# Uncomment if using Unity3D
+# *.unity
+# *.meta
+# *.unityproj
+
+# Other
+*.vspscc
+*.vssscc
+.idea/
+node_modules/
+dist/
+
+# Git Files
+!/.gitattributes
+!/.gitignore
+
+# Microsoft Office temp files
+~$*
+
+# Rider, VS Code, JetBrains, etc.
+.idea/
+.vscode/
